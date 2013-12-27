@@ -14,7 +14,7 @@ echo '<html>
     <![endif]-->
   </head>
   <body>
-    <h1>Adonis Maynard B. Pilongo Assignment on Bootstrap</h1>
+    <table><tr><th>Adonis Maynard B. Pilongo</th></tr><tr><td>Assignment</td></tr><tr><td>on <mark>Bootstrap</mark></td></tr></table>
 <hr>
 
 
