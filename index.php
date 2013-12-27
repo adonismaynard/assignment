@@ -14,7 +14,9 @@ echo '<html>
     <![endif]-->
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Adonis Maynard B. Pilongo Assignment on Bootstrap</h1>
+<hr>
+
 
     <!-- jQuery (necessary for Bootstraps JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
